@@ -1,0 +1,3 @@
+[submodule "cheetah3"]
+	path = cheetah3
+	url = https://github.com/CheetahTemplate3/cheetah3.git
