@@ -3,7 +3,7 @@ Version:        3.2.4
 Release:        1
 Summary:        Template engine and code-generator
 License:        MIT
-URL:            http://cheetahtemplate.org/
+URL:            https://github.com/sailfishos/python3-cheetah
 Source:         %{name}-%{version}.tar.gz
 BuildRequires:  python3-devel
 BuildRequires:  python3-markdown
